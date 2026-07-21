@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.db
+build/
+dist/
+build_*/
+dist_*/
+*.pyc
+*.spec
+.venv/
+venv/
